@@ -1,0 +1,10 @@
+16:58:22.146 [main] INFO  utilities.BaseTest - Product added to wishlist
+17:00:44.723 [main] INFO  utilities.BaseTest - Homepage loaded successfully
+17:00:51.220 [main] INFO  utilities.BaseTest - Login Page loaded successfully
+17:01:00.675 [main] INFO  utilities.BaseTest - navigated to Add giftcard section
+17:01:09.051 [main] INFO  utilities.BaseTest - All tab clicked and page loaded
+17:01:18.524 [main] INFO  utilities.BaseTest - product added to cart
+17:01:29.923 [main] INFO  utilities.BaseTest - contact page loaded successfully
+17:01:41.749 [main] INFO  utilities.BaseTest - Hover performed successfully
+17:01:50.652 [main] INFO  utilities.BaseTest - Searching for the product
+17:02:06.480 [main] INFO  utilities.BaseTest - Product added to wishlist

@@ -1,0 +1,26 @@
+15:21:09.588 [main] INFO  utilities.BaseTest - Homepage loaded successfully
+15:21:15.191 [main] INFO  utilities.BaseTest - Login Page loaded successfully
+15:21:21.464 [main] INFO  utilities.BaseTest - navigated to Add giftcard section
+15:21:28.774 [main] INFO  utilities.BaseTest - All tab clicked and page loaded
+15:21:41.184 [main] INFO  utilities.BaseTest - product added to cart
+15:21:50.413 [main] INFO  utilities.BaseTest - contact page loaded successfully
+15:22:01.854 [main] INFO  utilities.BaseTest - Hover performed successfully
+15:22:12.028 [main] INFO  utilities.BaseTest - Searching for the product
+15:22:26.706 [main] INFO  utilities.BaseTest - Product added to wishlist
+15:34:24.620 [main] INFO  utilities.BaseTest - Homepage loaded successfully
+15:34:30.171 [main] INFO  utilities.BaseTest - Login Page loaded successfully
+15:34:36.540 [main] INFO  utilities.BaseTest - navigated to Add giftcard section
+15:34:42.823 [main] INFO  utilities.BaseTest - All tab clicked and page loaded
+15:34:50.725 [main] INFO  utilities.BaseTest - product added to cart
+15:34:58.720 [main] INFO  utilities.BaseTest - contact page loaded successfully
+15:35:04.885 [main] INFO  utilities.BaseTest - Hover performed successfully
+15:35:10.736 [main] INFO  utilities.BaseTest - Searching for the product
+15:35:24.020 [main] INFO  utilities.BaseTest - Product added to wishlist
+16:57:07.990 [main] INFO  utilities.BaseTest - Homepage loaded successfully
+16:57:14.405 [main] INFO  utilities.BaseTest - Login Page loaded successfully
+16:57:22.227 [main] INFO  utilities.BaseTest - navigated to Add giftcard section
+16:57:30.205 [main] INFO  utilities.BaseTest - All tab clicked and page loaded
+16:57:41.769 [main] INFO  utilities.BaseTest - product added to cart
+16:57:51.463 [main] INFO  utilities.BaseTest - contact page loaded successfully
+16:57:59.248 [main] INFO  utilities.BaseTest - Hover performed successfully
+16:58:07.946 [main] INFO  utilities.BaseTest - Searching for the product
